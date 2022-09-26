@@ -1,2 +1,2 @@
 # MachineLearning-and-DataScience
-Machine Learning and Data Science exerices and some projects.
+Machine Learning and Data Science exercises and some projects.
