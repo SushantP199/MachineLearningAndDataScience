@@ -1,2 +1,2 @@
 # MachineLearning-and-DataScience
-Data science projects based on supervised and unsupervised machine learning algorithms.
+Machine Learning and Data Science exerices and some projects.
